@@ -1,3 +1,0 @@
-import os
-
-BOT_TOKEN = 8684397747:AAEcmZdwP0wFccHv-9N4qbA4GnOkrE1N3ss
